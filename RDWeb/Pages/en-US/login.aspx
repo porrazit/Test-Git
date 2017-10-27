@@ -619,7 +619,18 @@
             <tr>
             <td><%=L_TSWATimeoutLabel_Text%></td>
             </tr>
-
+            <tr>
+            <td>
+                <p>I'm your Father</p>
+            </td>
+            </tr>
+            </tr>
+            <tr>
+            <td>
+                <p>Tonight, we are young So let's set the world on fire We can burn brighter than the sun</p>
+            </td>
+            </tr>
+            
             <tr>
             <td height="30">&#160;</td>
             </tr>
