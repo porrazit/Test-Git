@@ -1,1 +1,0 @@
-﻿<%@ WebService Language="C#" CodeBehind="RDWebService.asmx.cs" Class="Microsoft.TerminalServices.Publishing.RDWebServiceASP.RDWebService" %>
